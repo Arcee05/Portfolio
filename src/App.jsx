@@ -1,9 +1,9 @@
 import React from 'react'
-
+import Navbar from "./Navbar"
 const App = () => {
   return (
     <div>
-      Ready to Start
+      <Navbar/>
     </div>
   )
 }
