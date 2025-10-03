@@ -4,7 +4,8 @@ import Hero from './Hero'
 const App = () => {
   return (
     <div>
-      <Navbar/>
+      <Navbar />
+      <Hero />
     </div>
   )
 }
